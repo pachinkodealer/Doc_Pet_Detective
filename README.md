@@ -1,5 +1,6 @@
 Project - Doc_Pet_Detective
 
+Description: Inferring from this 2021 dataset, this data was collected from one particular Doctor's office which had a sample of 108 customers. The only types of pets this doctor treated were cats, dogs, turtles, birds, fish, and hamsters.
 
 ![Screenshot 2024-04-29 112631](https://github.com/pachinkodealer/Doc_Pet_Detective/assets/75056795/8229778b-601b-4726-87b4-b4baaa33c961)
 
@@ -17,3 +18,5 @@ Objective: Understand the Customer_database dataset
 
 Graph: Cats are predicted to have the most doctor visits per year! Dogs 2nd, then to other pets such as turtles, birds, fish, and hamsters.
 ![output](https://github.com/pachinkodealer/Doc_Pet_Detective/assets/75056795/3320dfb5-59ae-4d05-bd97-4df4b8ba9aa8)
+
+Additional reading: [We love our pets, and our spending proves it _ Beyond the Numbers_ U.S. Bureau of Labor Statistics.pdf](https://github.com/pachinkodealer/Doc_Pet_Detective/files/15151687/We.love.our.pets.and.our.spending.proves.it._.Beyond.the.Numbers_.U.S.Bureau.of.Labor.Statistics.pdf)
