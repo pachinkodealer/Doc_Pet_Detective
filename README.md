@@ -19,4 +19,4 @@ Objective: Understand the Customer_database dataset
 Graph: Cats are predicted to have the most doctor visits per year! Dogs 2nd, then to other pets such as turtles, birds, fish, and hamsters.
 ![output](https://github.com/pachinkodealer/Doc_Pet_Detective/assets/75056795/3320dfb5-59ae-4d05-bd97-4df4b8ba9aa8)
 
-Additional reading: [We love our pets, and our spending proves it _ Beyond the Numbers_ U.S. Bureau of Labor Statistics.pdf](https://github.com/pachinkodealer/Doc_Pet_Detective/files/15151687/We.love.our.pets.and.our.spending.proves.it._.Beyond.the.Numbers_.U.S.Bureau.of.Labor.Statistics.pdf)
+Additional reading: Want to know more about pet spending? Read here: https://www.bls.gov/opub/btn/volume-12/we-love-our-pets-and-our-spending-proves-it-1.htm [We love our pets, and our spending proves it _ Beyond the Numbers_ U.S. Bureau of Labor Statistics.pdf](https://github.com/pachinkodealer/Doc_Pet_Detective/files/15151687/We.love.our.pets.and.our.spending.proves.it._.Beyond.the.Numbers_.U.S.Bureau.of.Labor.Statistics.pdf)
