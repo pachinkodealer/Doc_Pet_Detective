@@ -6,5 +6,14 @@ Project - Doc_Pet_Detective
 Project Participants
 - Ian Lee
 
+Objective: Understand the Customer_database dataset
+- Dataset was from 2021 with Doctor visit data($17.25 per visit)
+- Used Decision Tree Regression Machine Learning to predict amount of visits/spending per year for type of pet
+- A somewhat accurate model, running the best parameters, evaluation metrics are not entirely ideal because of the small dataset.
+  
+![combined_predictions](https://github.com/pachinkodealer/Doc_Pet_Detective/assets/75056795/d45b44db-6eb9-4510-af0f-bc0b4df26420)
+![model_evaluation](https://github.com/pachinkodealer/Doc_Pet_Detective/assets/75056795/f2cbfca1-ca0e-417a-8c98-e580151a0590)
+
+
 
 ![output](https://github.com/pachinkodealer/Doc_Pet_Detective/assets/75056795/3320dfb5-59ae-4d05-bd97-4df4b8ba9aa8)
